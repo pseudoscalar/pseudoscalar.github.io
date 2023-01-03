@@ -1,0 +1,6 @@
+twitch #9146ff
+github #181717
+keybase #33a0ff
+bitcoin #f7931a
+monero #ff6600
+email #808080

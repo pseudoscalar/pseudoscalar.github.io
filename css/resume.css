@@ -1,0 +1,30 @@
+header h1, main {
+	line-height: initial;
+}
+
+header h1 {
+	text-align: left;
+}
+
+main section h2 {
+	border-bottom: solid 1px black;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-size: 2rem;
+}
+
+main section section h3 {
+	font-size: 1.2rem;
+	margin: 0;
+}
+
+main section section .listing-dates {
+	display: block;
+	float: right;
+	margin-top: -1.2rem;
+	font-size: 0.8rem;
+}
+
+main section section {
+	margin-bottom: 1rem;
+}
